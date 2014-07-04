@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Java Ashley">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/MyrranCliente/lib/Java Ashley" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/MyrranCliente/lib/Java Ashley/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/MyrranCliente/lib/Java Ashley" recursive="false" />
+  </library>
+</component>
